@@ -1,4 +1,4 @@
-name: protractor-commonjs-mocha-chai-expect
+name: protractor-commonjs-mocha-chai-assert
 'on':
   push: null
   schedule:
