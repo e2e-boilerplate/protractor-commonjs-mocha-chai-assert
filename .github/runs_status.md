@@ -1,0 +1,32 @@
+| No  | Date           | Build                                                                                                                                                                |
+| :-- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 147 | 28/03/20 18:41 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/65506625) |
+| 154 | 29/03/20 07:07 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/65778758) |
+| 150 | 28/03/20 20:11 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/65544986) |
+| 153 | 29/03/20 02:16 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/65676197) |
+| 162 | 29/03/20 22:43 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/66166715) |
+| 155 | 29/03/20 07:18 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/65783380) |
+| 157 | 29/03/20 16:14 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/66007953) |
+| 161 | 29/03/20 21:44 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/66143427) |
+| 163 | 30/03/20 21:15 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/66995897) |
+| 158 | 29/03/20 16:53 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/66020268) |
+| 160 | 29/03/20 21:33 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/66140673) |
+| 165 | 01/04/20 00:44 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/67949267) |
+| 156 | 29/03/20 07:24 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/65786169) |
+| 168 | 02/04/20 21:11 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/69499744) |
+| 169 | 02/04/20 23:24 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/69556626) |
+| 170 | 02/04/20 23:34 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/69560196) |
+| 176 | 03/04/20 21:56 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/70310351) |
+| 175 | 03/04/20 21:29 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/70303888) |
+| 167 | 02/04/20 19:34 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/69444193) |
+| 174 | 03/04/20 21:21 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/70302295) |
+| 172 | 03/04/20 00:09 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/69574989) |
+| 166 | 01/04/20 23:25 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/68743167) |
+| 171 | 02/04/20 23:48 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/69563338) |
+| 164 | 31/03/20 00:44 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/67095161) |
+| 159 | 29/03/20 19:22 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/66081762) |
+| 151 | 28/03/20 23:34 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/65618324) |
+| 149 | 28/03/20 20:04 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/65533107) |
+| 152 | 29/03/20 00:29 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/65637554) |
+| 148 | 28/03/20 19:14 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/65521209) |
+| 173 | 03/04/20 01:54 | [![Conclusion](https://img.shields.io/badge/build-pass-brightgreen)](https://github.com/e2e-boilerplate/protractor-commonjs-mocha-chai-expect/actions/runs/69618413) |
