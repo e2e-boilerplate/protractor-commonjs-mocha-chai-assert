@@ -1,4 +1,4 @@
-const { expect } = require("chai");
+const { assert } = require("chai");
 
 describe("Sandbox", () => {
   before(function fn() {
@@ -10,9 +10,9 @@ describe("Sandbox", () => {
     const title = await browser.getTitle();
     const header = element(by.css("h1"));
 
-    expect(title).to.equal("Sandbox");
-    header.getText().then((h) => {
-      expect(h).to.equal("Sandbox");
+    assert.strictEqual(title, "Sandbox");
+    header.getText().then((title) => {
+      assert.strictEqual(title,"Sandbox");
     });
   });
 });
