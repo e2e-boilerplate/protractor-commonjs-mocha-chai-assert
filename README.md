@@ -2,7 +2,7 @@
     
 # Protractor Boilerplate
     
-Protractor end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html), [Mocha](https://mochajs.org), [Chai](https://www.chaijs.com) and Assert.
+Protractor end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html), [Mocha](https://mochajs.org), [Chai](https://www.chaijs.com) and [Commonjs](https://www.chaijs.com/api/assert/).
     
 ## Getting Started
     
