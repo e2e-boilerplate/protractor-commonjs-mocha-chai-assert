@@ -57,7 +57,7 @@
   "scripts": {
     "lint": "npx eslint --ext .js ./ --fix",
     "test": "npx protractor",
-    "update:webdriver": "npx webdriver-manager update --versions.chrome=785.0.4183.83 --gecko false"
+    "update:webdriver": "npx webdriver-manager update --gecko false"
   },
   "version": "1.0.0"
 }
